@@ -8,11 +8,11 @@ This project transforms the raw `BlinkIT Grocery Data.csv` into a dynamic, user-
 
 ---
 
-## 📊 Live Dashboard Preview
+## 📊 Our Dashboard Preview
 
 Here is a look at the main dashboard's "control center."
 
-[![Blinkit Dashboard Preview](image_8c9d18.png)](Blinkit%20PowerBi%20Project.pbix)
+[![Blinkit Dashboard Preview](blinkit%20dashboard%20image.jpg)](Blinkit%20PowerBi%20Project.pbix)
 
 *(See the full interactive version by downloading the `.pbix` file)*
 
